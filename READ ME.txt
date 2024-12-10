@@ -1,0 +1,24 @@
+ZOEY, YOUR SMART VOICE ASSISTNAT:
+
+INTRODUCTION:
+Hey, I have perfected my voice assistant further to give her a name "Zoey", and to improve the accuracy of the Tasks that she can perform, I have added a few new features such as Text To Speech, Volume control and Forward and Back in Gesture Based Media Control, Daily Status with Time, Date, Day and year and much more.
+
+INSTRUCTIONS:
+I have made it incredibly easy to use this program, you don't have to add your own Directories anymore, I have removed the file opening for just one single file, and the Media control is just for Netflix and YouTube, you can add other media choices if you would like:
+
+STEPS:
+1.Download Python
+2.Open Terminal
+3.Type : pip install ______ (name of libraries here)
+	Libaries: 
+		speechrecognition
+		opencv
+		mediapipe
+		pyttsx3
+		customtkinter
+		pyautogui
+		and Image if necessary
+4.Locate your python file in Terminal with cd and directory of your python file
+5.Type python voiceassistant.py
+6.Speak when you say Listening.. say "Introcuce Yourself"
+7.Enjoy ^^
